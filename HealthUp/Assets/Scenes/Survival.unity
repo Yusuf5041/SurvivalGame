@@ -2426,7 +2426,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 2004087182}
   m_Direction: 0
   m_MinValue: 0
-  m_MaxValue: 150
+  m_MaxValue: 100
   m_WholeNumbers: 1
   m_Value: 100
   m_OnValueChanged:
@@ -3507,6 +3507,31 @@ PrefabInstance:
 
         DO YOU WANT TO PLAY AGAIN?'
       objectReference: {fileID: 0}
+    - target: {fileID: 225964714009344086, guid: e68bbafa47ecad145aa3ba20763fb387,
+        type: 3}
+      propertyPath: m_Alpha
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114641690699659280, guid: e68bbafa47ecad145aa3ba20763fb387,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114641690699659280, guid: e68bbafa47ecad145aa3ba20763fb387,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114641690699659280, guid: e68bbafa47ecad145aa3ba20763fb387,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114641690699659280, guid: e68bbafa47ecad145aa3ba20763fb387,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0.7058824
+      objectReference: {fileID: 0}
     - target: {fileID: 114411378747199776, guid: e68bbafa47ecad145aa3ba20763fb387,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -3556,31 +3581,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_StringArgument
       value: MainMenu
-      objectReference: {fileID: 0}
-    - target: {fileID: 225964714009344086, guid: e68bbafa47ecad145aa3ba20763fb387,
-        type: 3}
-      propertyPath: m_Alpha
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 114641690699659280, guid: e68bbafa47ecad145aa3ba20763fb387,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 114641690699659280, guid: e68bbafa47ecad145aa3ba20763fb387,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 114641690699659280, guid: e68bbafa47ecad145aa3ba20763fb387,
-        type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 114641690699659280, guid: e68bbafa47ecad145aa3ba20763fb387,
-        type: 3}
-      propertyPath: m_Color.a
-      value: 0.7058824
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e68bbafa47ecad145aa3ba20763fb387, type: 3}
