@@ -4,6 +4,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
+//*********************************************
+//MonoBehaviour used from UnityEngine library
+//*********************************************
+
 public class EnemyBehaviour : MonoBehaviour
 {
     public enum AiMode { Patrol, Pursue, Wander };

@@ -4,6 +4,10 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
+//*********************************************
+//MonoBehaviour used from UnityEngine library
+//*********************************************
+
 public class GameOverManager : MonoBehaviour
 {
     public PlayerHealth playerHealth;       // Reference to the player's health.

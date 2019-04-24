@@ -5,6 +5,10 @@ using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 using UnityEngine;
 
+//*********************************************
+//MonoBehavior used from UnityEngine library
+//*********************************************
+
 public class GameController : MonoBehaviour
 {
     public static GameController instance = null;
@@ -42,11 +46,7 @@ public class GameController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetButtonDown("Fire2"))
-        {
-            Debug.Log("pressed");
-            anim.Play("Exit Panel In");
-        }
+        
     }
 
     public void Save()

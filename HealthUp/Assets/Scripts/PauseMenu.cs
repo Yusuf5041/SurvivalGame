@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+//*********************************************
+//MonoBehaviour used from UnityEngine library
+//*********************************************
+
 public class PauseMenu : MonoBehaviour
 {
 

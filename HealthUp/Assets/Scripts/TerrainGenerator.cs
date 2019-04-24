@@ -3,6 +3,10 @@ using UnityEngine;
 using Random = UnityEngine.Random;
 using UnityEngine.AI;
 
+//*********************************************
+//MonoBehaviour used from UnityEngine library
+//*********************************************
+
 public class TerrainGenerator : MonoBehaviour
 {
     public float depth = 20;

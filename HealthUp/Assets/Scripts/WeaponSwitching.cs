@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//*********************************************
+//MonoBehaviour used from UnityEngine library
+//*********************************************
+
 public class WeaponSwitching : MonoBehaviour {
 
     public GameObject Weapon1;
