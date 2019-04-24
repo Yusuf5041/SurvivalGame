@@ -6,19 +6,18 @@ The solution is very large in size so it is hosted on GitHub at:
 
 The solution is contained in two folders:
 
-Build:
+FinalBuild:
 
-	This contains the executable file. Open the application file called 'experimentation'. 
-	This requires the use of Unity in order to run so ensure Unity is installed on your computer: https://unity3d.com/get-unity/download 
-
-	1) Ensure Unity is installed
-	2) Run the executable 'experimentation'
+	This contains the executable file. Open the application file called 'experimentation'
 
 	Please ensure you have a mouse and keyboard to use the solution (play the game).
 
 HealthUp:
 
 	This containes the entire Unity project, the scripts can be viewed without Unity, however if you want to view the entire project Unity must be installed.
+
+	You can install Unity at: https://unity3d.com/get-unity/download 
+
 	To navigate to the scripts I created for the solution, got to:
 
 	HealthUp --> Assets --> Scripts
